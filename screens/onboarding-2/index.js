@@ -11,7 +11,7 @@ const Onboarding2 = () => {
 
       <View style={styles.imgContainer}>
       </View>
-      <Text style={styles.title}>Onboarding</Text>
+      <Text style={styles.title}>Onboarding2</Text>
       <View style={styles.descContainer}>
         <Text style={styles.desc}>
           There is no better advertisement  campaign that’s is low and also successful at the same time. Great business ideas.
