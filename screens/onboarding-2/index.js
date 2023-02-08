@@ -61,7 +61,7 @@ const styles = StyleSheet.create({
   imgContainer: {
     height: 260,
     width: 343,
-    backgroundColor: "#0e0e94",
+    backgroundColor: "#a3eb2d",
     borderRadius: 10,
     alignSelf: "center"
   }
